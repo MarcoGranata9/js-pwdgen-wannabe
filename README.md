@@ -15,7 +15,7 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21
 3. Chidere all' utente il suo colore preferito
 
 **Logica del programma**
-1. Compilare nome, cognome, colore preferito e numero 21 in un' unica parola
+1. Concatenare nome, cognome, colore preferito e numero 21 in un' unica parola
 2. Crea messaggio della password generata
 
 **Output**
